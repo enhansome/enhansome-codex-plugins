@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:59:11Z",
+            "last_commit": "2026-08-15T03:17:39Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 433
+            "stars": 434
           }
         },
         {
@@ -63,7 +63,7 @@
             "last_commit": "2026-08-09T10:35:32Z",
             "owner": "alirezarezvani",
             "repo": "claude-skills",
-            "stars": 24403
+            "stars": 24441
           }
         },
         {
@@ -77,7 +77,7 @@
             "last_commit": "2026-08-08T14:08:38Z",
             "owner": "SamurAIGPT",
             "repo": "Generative-Media-Skills",
-            "stars": 4051
+            "stars": 4054
           }
         },
         {
@@ -88,24 +88,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T23:28:23Z",
+            "last_commit": "2026-08-14T19:05:45Z",
             "owner": "nyldn",
             "repo": "claude-octopus",
-            "stars": 3963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Antigravity Workspace Template",
-          "description": "Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T05:49:18Z",
-            "owner": "study8677",
-            "repo": "repobrain",
-            "stars": 1309
+            "stars": 3966
           }
         },
         {
@@ -116,10 +102,24 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-04T11:48:45Z",
+            "last_commit": "2026-08-14T14:46:25Z",
             "owner": "hyhmrright",
             "repo": "brooks-lint",
-            "stars": 1300
+            "stars": 1325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Antigravity Workspace Template",
+          "description": "Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T19:04:06Z",
+            "owner": "study8677",
+            "repo": "repobrain",
+            "stars": 1310
           }
         },
         {
@@ -130,10 +130,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T11:13:13Z",
+            "last_commit": "2026-08-15T00:15:11Z",
             "owner": "GanyuanRan",
             "repo": "Aegis",
-            "stars": 997
+            "stars": 1006
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-08-10T04:13:01Z",
             "owner": "MageByte-Zero",
             "repo": "spec-superflow",
-            "stars": 740
+            "stars": 742
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2026-08-12T20:15:35Z",
             "owner": "ooples",
             "repo": "token-optimizer-mcp",
-            "stars": 483
+            "stars": 485
           }
         },
         {
@@ -189,7 +189,7 @@
             "last_commit": "2026-08-13T18:07:51Z",
             "owner": "ndycode",
             "repo": "codex-multi-auth",
-            "stars": 440
+            "stars": 443
           }
         },
         {
@@ -200,10 +200,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T04:31:24Z",
+            "last_commit": "2026-08-15T00:34:30Z",
             "owner": "boshu2",
             "repo": "agentops",
-            "stars": 422
+            "stars": 423
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2026-08-04T09:55:50Z",
             "owner": "ohad6k",
             "repo": "emulo",
-            "stars": 219
+            "stars": 220
           }
         },
         {
@@ -284,10 +284,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T06:12:48Z",
+            "last_commit": "2026-08-14T06:36:11Z",
             "owner": "labring",
             "repo": "sealos-skills",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -298,7 +298,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-13T20:25:21Z",
+            "last_commit": "2026-08-14T15:32:36Z",
             "owner": "archcore-ai",
             "repo": "plugin",
             "stars": 52
@@ -326,10 +326,24 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T20:11:34Z",
+            "last_commit": "2026-08-14T17:19:22Z",
             "owner": "Kanevry",
             "repo": "session-orchestrator",
             "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docflow",
+          "description": "Lightweight documentation memory for AI coding agents that scaffolds a 7-category docs tree, runs readiness checks, validates docs before finishing, and keeps a monthly changelog across Claude Code and Codex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T23:52:29Z",
+            "owner": "MedAdemBHA",
+            "repo": "docflow",
+            "stars": 40
           }
         },
         {
@@ -348,30 +362,16 @@
         },
         {
           "node_type": "item",
-          "title": "Docflow",
-          "description": "Lightweight documentation memory for AI coding agents that scaffolds a 7-category docs tree, runs readiness checks, validates docs before finishing, and keeps a monthly changelog across Claude Code and Codex.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-12T23:52:29Z",
-            "owner": "MedAdemBHA",
-            "repo": "docflow",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Waggle",
           "description": "Persistent graph-backed conversational memory for Codex that recalls project decisions, constraints, preferences, and outcomes across sessions.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T20:07:29Z",
+            "last_commit": "2026-08-14T18:24:48Z",
             "owner": "Abhigyan-Shekhar",
             "repo": "Waggle-mcp",
-            "stars": 35
+            "stars": 36
           }
         },
         {
@@ -438,10 +438,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T02:51:08Z",
+            "last_commit": "2026-08-15T02:56:18Z",
             "owner": "NotNull92",
             "repo": "hera-agent-unity",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -494,7 +494,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:40:33Z",
+            "last_commit": "2026-08-14T16:35:23Z",
             "owner": "vishal2612200",
             "repo": "agentpack",
             "stars": 23
@@ -508,7 +508,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T19:50:05Z",
+            "last_commit": "2026-08-14T14:05:25Z",
             "owner": "RBraga01",
             "repo": "Quality-Engineering-Skills",
             "stars": 20
@@ -522,7 +522,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:36:36Z",
+            "last_commit": "2026-08-15T05:07:48Z",
             "owner": "mimfort",
             "repo": "rag_for_git",
             "stars": 20
@@ -628,20 +628,6 @@
         },
         {
           "node_type": "item",
-          "title": "Project Autopilot",
-          "description": "Turn an idea into a structured project workflow with planning, execution, verification, and handoff.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-09T10:37:13Z",
-            "owner": "AlexMi64",
-            "repo": "codex-project-autopilot",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
           "title": "A Team",
           "description": "Universal multi-agent infrastructure with 25 specialist agents, 16 enforced workflow skills, and a lead orchestrator for Claude Code, Codex CLI, Cursor, and OpenCode.",
           "children": [],
@@ -652,6 +638,34 @@
             "owner": "RBraga01",
             "repo": "a-team",
             "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Autopilot",
+          "description": "Turn an idea into a structured project workflow with planning, execution, verification, and handoff.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T10:37:13Z",
+            "owner": "AlexMi64",
+            "repo": "codex-project-autopilot",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BGS Modding Superpowers",
+          "description": "Agentic Bethesda Game Studio modpack curation toolkit with MCP-driven xEdit conflict audit, MO2 control plane, BA2/BSA and Papyrus tooling, and skills for setup, dev-log, and release-changelog workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T02:04:05Z",
+            "owner": "BB-84C",
+            "repo": "bgs-modding-superpowers",
+            "stars": 12
           }
         },
         {
@@ -680,20 +694,6 @@
             "owner": "dragon1086",
             "repo": "claude-skills",
             "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BGS Modding Superpowers",
-          "description": "Agentic Bethesda Game Studio modpack curation toolkit with MCP-driven xEdit conflict audit, MO2 control plane, BA2/BSA and Papyrus tooling, and skills for setup, dev-log, and release-changelog workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T02:04:05Z",
-            "owner": "BB-84C",
-            "repo": "bgs-modding-superpowers",
-            "stars": 11
           }
         },
         {
@@ -1034,13 +1034,27 @@
         },
         {
           "node_type": "item",
+          "title": "ArmorCodex",
+          "description": "Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-11T16:44:29Z",
+            "owner": "armoriq",
+            "repo": "armorCodex",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
           "title": "HOL Guard Plugin",
           "description": "AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:49:21Z",
+            "last_commit": "2026-08-14T18:09:08Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard-plugin",
             "stars": 3
@@ -1057,6 +1071,20 @@
             "last_commit": "2026-08-13T14:14:58Z",
             "owner": "mbanderas",
             "repo": "maestro",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UIZZE",
+          "description": "STOP UI SLOP. Gives Codex 800,000+ real web and iOS screens, a product-specific design contract, and a hard finish gate before generic UI ships; connect it at https://uizze.com.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T11:12:05Z",
+            "owner": "uizze",
+            "repo": "uizze",
             "stars": 3
           }
         },
@@ -1104,27 +1132,13 @@
         },
         {
           "node_type": "item",
-          "title": "ArmorCodex",
-          "description": "Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on and .",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-11T16:44:29Z",
-            "owner": "armoriq",
-            "repo": "armorCodex",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Codex How To",
           "description": "Engineering-first Codex curriculum and plugin with 9 skills, measured token-efficiency experiments, bounded orchestration, testing, review, and living knowledge maintenance.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-11T07:10:55Z",
+            "last_commit": "2026-08-14T21:35:04Z",
             "owner": "Phelan164",
             "repo": "codex-howto",
             "stars": 2
@@ -1180,7 +1194,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T00:58:01Z",
+            "last_commit": "2026-08-14T09:55:11Z",
             "owner": "s977043",
             "repo": "river-review",
             "stars": 2
@@ -1292,7 +1306,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T04:11:20Z",
+            "last_commit": "2026-08-15T05:00:20Z",
             "owner": "GreenLv",
             "repo": "codex-context-guard",
             "stars": 1
@@ -1407,20 +1421,6 @@
             "last_commit": "2026-05-21T09:49:07Z",
             "owner": "frumu-ai",
             "repo": "tandem-codex-plugin",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "UIZZE",
-          "description": "STOP UI SLOP. Gives Codex 800,000+ real web and iOS screens, a product-specific design contract, and a hard finish gate before generic UI ships; connect it at https://uizze.com.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T11:12:05Z",
-            "owner": "uizze",
-            "repo": "uizze",
             "stars": 1
           }
         },
@@ -1609,7 +1609,7 @@
             "last_commit": "2026-08-01T20:44:02Z",
             "owner": "aklofas",
             "repo": "kicad-happy",
-            "stars": 958
+            "stars": 963
           }
         },
         {
@@ -1620,10 +1620,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:59:54Z",
+            "last_commit": "2026-08-15T03:09:46Z",
             "owner": "indranilbanerjee",
             "repo": "digital-marketing-pro",
-            "stars": 736
+            "stars": 738
           }
         },
         {
@@ -1637,7 +1637,7 @@
             "last_commit": "2026-08-10T12:50:35Z",
             "owner": "GarethManning",
             "repo": "education-agent-skills",
-            "stars": 613
+            "stars": 614
           }
         },
         {
@@ -1651,7 +1651,7 @@
             "last_commit": "2026-08-09T13:33:19Z",
             "owner": "sergebulaev",
             "repo": "linkedin-skills",
-            "stars": 550
+            "stars": 552
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "last_commit": "2026-08-12T13:21:43Z",
             "owner": "ZeroPointRepo",
             "repo": "youtube-skills",
-            "stars": 509
+            "stars": 512
           }
         },
         {
@@ -1693,7 +1693,7 @@
             "last_commit": "2026-08-12T19:58:28Z",
             "owner": "talkstream",
             "repo": "ru-text",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -1721,7 +1721,7 @@
             "last_commit": "2026-08-12T10:55:28Z",
             "owner": "avivsinai",
             "repo": "bitbucket-cli",
-            "stars": 185
+            "stars": 186
           }
         },
         {
@@ -1732,7 +1732,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T04:06:26Z",
+            "last_commit": "2026-08-14T19:10:21Z",
             "owner": "Xquik-dev",
             "repo": "x-twitter-scraper",
             "stars": 178
@@ -1749,7 +1749,7 @@
             "last_commit": "2026-08-11T17:18:05Z",
             "owner": "ndycode",
             "repo": "oc-codex-multi-auth",
-            "stars": 170
+            "stars": 171
           }
         },
         {
@@ -1788,7 +1788,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T23:34:04Z",
+            "last_commit": "2026-08-14T22:30:46Z",
             "owner": "avivsinai",
             "repo": "agent-message-queue",
             "stars": 81
@@ -1816,10 +1816,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-11T08:00:38Z",
+            "last_commit": "2026-08-14T07:54:37Z",
             "owner": "CALLE-AI",
             "repo": "call-e-integrations",
-            "stars": 74
+            "stars": 76
           }
         },
         {
@@ -1847,7 +1847,7 @@
             "last_commit": "2026-07-27T20:15:22Z",
             "owner": "ScrapeGraphAI",
             "repo": "just-scrape",
-            "stars": 46
+            "stars": 48
           }
         },
         {
@@ -1900,10 +1900,24 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-07-28T13:00:06Z",
+            "last_commit": "2026-08-14T14:11:53Z",
             "owner": "anzy-renlab-ai",
             "repo": "pronounce",
             "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flow Studio Power Automate",
+          "description": "Debug, build, and operate Power Automate flows via FlowStudio MCP with action-level inputs and outputs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-10T12:40:33Z",
+            "owner": "ninihen1",
+            "repo": "power-automate-mcp-skills",
+            "stars": 31
           }
         },
         {
@@ -1918,20 +1932,6 @@
             "owner": "octo-patch",
             "repo": "MorningAI",
             "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Flow Studio Power Automate",
-          "description": "Debug, build, and operate Power Automate flows via FlowStudio MCP with action-level inputs and outputs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-05-10T12:40:33Z",
-            "owner": "ninihen1",
-            "repo": "power-automate-mcp-skills",
-            "stars": 28
           }
         },
         {
@@ -2124,7 +2124,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T16:33:46Z",
+            "last_commit": "2026-08-14T17:42:29Z",
             "owner": "val-town",
             "repo": "plugins",
             "stars": 9
@@ -2334,7 +2334,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T06:16:35Z",
+            "last_commit": "2026-08-15T04:49:35Z",
             "owner": "happy520ai",
             "repo": "unified-ai-system",
             "stars": 4
@@ -2628,7 +2628,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-24T08:44:08Z",
+            "last_commit": "2026-08-14T08:45:34Z",
             "owner": "Sevi-py",
             "repo": "coolify-codex-plugin",
             "stars": 0
@@ -2864,7 +2864,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:23:54.960Z",
+    "last_updated": "2026-08-15T05:36:11.931Z",
     "original_repository": "hashgraph-online/awesome-codex-plugins",
     "original_repository_sha": "48bf48b1444fe787356ceb76a9927bcda13dd4d1",
     "enhanced_repository": "enhansome/enhansome-codex-plugins",
