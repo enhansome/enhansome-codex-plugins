@@ -53,7 +53,7 @@
                 "last_commit": "2026-08-24T21:12:45Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24923
+                "stars": 24925
               }
             },
             {
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 1199817646,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T18:39:48Z",
+                "last_commit": "2026-08-25T06:11:04Z",
                 "owner": "Kanevry",
                 "repo": "session-orchestrator",
                 "stars": 48
@@ -1190,7 +1190,7 @@
                 "archived": false,
                 "id": 1324431490,
                 "language": "Python",
-                "last_commit": "2026-08-25T04:52:49Z",
+                "last_commit": "2026-08-25T06:05:30Z",
                 "owner": "GreenLv",
                 "repo": "codex-context-guard",
                 "stars": 3
@@ -1740,7 +1740,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 681
+                "stars": 683
               }
             },
             {
@@ -1902,7 +1902,7 @@
                 "archived": false,
                 "id": 1206570114,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T02:35:47Z",
+                "last_commit": "2026-08-25T05:54:29Z",
                 "owner": "CALLE-AI",
                 "repo": "call-e-integrations",
                 "stars": 85
@@ -2382,7 +2382,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T05:32:27Z",
+                "last_commit": "2026-08-25T06:09:05Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -2998,7 +2998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:43:56.369Z",
+    "last_updated": "2026-08-25T06:11:49.670Z",
     "original_repository": "hashgraph-online/awesome-codex-plugins",
     "original_repository_id": 1194181229,
     "original_repository_sha": "e84726fa7811b657179e95b5563db0232c8be72c",
