@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1194748811,
             "language": "Python",
-            "last_commit": "2026-08-24T14:21:28Z",
+            "last_commit": "2026-08-25T04:53:26Z",
             "owner": "hashgraph-online",
             "repo": "hol-guard",
-            "stars": 466
+            "stars": 472
           }
         },
         {
@@ -50,10 +50,10 @@
                 "archived": false,
                 "id": 1079084637,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:39:58Z",
+                "last_commit": "2026-08-24T21:12:45Z",
                 "owner": "alirezarezvani",
                 "repo": "claude-skills",
-                "stars": 24893
+                "stars": 24923
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-24T10:52:36Z",
                 "owner": "SamurAIGPT",
                 "repo": "Generative-Media-Skills",
-                "stars": 4135
+                "stars": 4137
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2026-08-24T02:34:19Z",
                 "owner": "nyldn",
                 "repo": "claude-octopus",
-                "stars": 3997
+                "stars": 4000
               }
             },
             {
@@ -98,7 +98,7 @@
                 "last_commit": "2026-08-24T04:07:06Z",
                 "owner": "hyhmrright",
                 "repo": "brooks-lint",
-                "stars": 1411
+                "stars": 1414
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2026-08-24T00:31:04Z",
                 "owner": "GanyuanRan",
                 "repo": "Aegis",
-                "stars": 1121
+                "stars": 1129
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-23T16:04:25Z",
                 "owner": "echoVic",
                 "repo": "boss-skill",
-                "stars": 546
+                "stars": 547
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2026-08-20T23:45:30Z",
                 "owner": "ndycode",
                 "repo": "codex-multi-auth",
-                "stars": 457
+                "stars": 458
               }
             },
             {
@@ -200,10 +200,10 @@
                 "archived": false,
                 "id": 1090518613,
                 "language": "Go",
-                "last_commit": "2026-08-23T06:22:16Z",
+                "last_commit": "2026-08-25T03:39:54Z",
                 "owner": "boshu2",
                 "repo": "agentops",
-                "stars": 428
+                "stars": 429
               }
             },
             {
@@ -230,7 +230,7 @@
                 "archived": false,
                 "id": 1293528352,
                 "language": "Python",
-                "last_commit": "2026-08-24T10:22:35Z",
+                "last_commit": "2026-08-24T18:30:47Z",
                 "owner": "ohad6k",
                 "repo": "emulo",
                 "stars": 272
@@ -275,7 +275,7 @@
                 "archived": false,
                 "id": 1283603794,
                 "language": "JavaScript",
-                "last_commit": "2026-08-21T09:29:46Z",
+                "last_commit": "2026-08-25T02:27:17Z",
                 "owner": "beefiker",
                 "repo": "superloopy",
                 "stars": 109
@@ -293,7 +293,7 @@
                 "last_commit": "2026-08-14T06:36:11Z",
                 "owner": "labring",
                 "repo": "sealos-skills",
-                "stars": 75
+                "stars": 77
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-17T13:17:46Z",
                 "owner": "archcore-ai",
                 "repo": "plugin",
-                "stars": 52
+                "stars": 53
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-07-16T17:10:23Z",
                 "owner": "plastic-labs",
                 "repo": "codex-honcho",
-                "stars": 49
+                "stars": 50
               }
             },
             {
@@ -335,7 +335,7 @@
                 "archived": false,
                 "id": 1199817646,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T21:55:48Z",
+                "last_commit": "2026-08-24T18:39:48Z",
                 "owner": "Kanevry",
                 "repo": "session-orchestrator",
                 "stars": 48
@@ -413,7 +413,7 @@
                 "last_commit": "2026-07-09T16:35:47Z",
                 "owner": "Suraj1235",
                 "repo": "open-dynamic-workflows",
-                "stars": 31
+                "stars": 32
               }
             },
             {
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 1261842465,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:03:02Z",
+                "last_commit": "2026-08-24T22:53:39Z",
                 "owner": "mimfort",
                 "repo": "rag_for_git",
                 "stars": 21
@@ -650,7 +650,7 @@
                 "archived": false,
                 "id": 1211851755,
                 "language": "Python",
-                "last_commit": "2026-08-14T02:04:05Z",
+                "last_commit": "2026-08-24T18:33:32Z",
                 "owner": "BB-84C",
                 "repo": "bgs-modding-superpowers",
                 "stars": 14
@@ -988,6 +988,21 @@
             },
             {
               "node_type": "item",
+              "title": "Agent Workflow System",
+              "description": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1254984786,
+                "language": "PowerShell",
+                "last_commit": "2026-06-12T10:22:24Z",
+                "owner": "1139030773-cmd",
+                "repo": "agent-workflow-system",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
               "title": "ArmorCodex",
               "description": "Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on and .",
               "children": [],
@@ -1085,25 +1100,10 @@
                 "archived": false,
                 "id": 1243798066,
                 "language": null,
-                "last_commit": "2026-08-18T18:55:43Z",
+                "last_commit": "2026-08-24T23:27:59Z",
                 "owner": "villagesql",
                 "repo": "villagesql-skills",
                 "stars": 5
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Agent Workflow System",
-              "description": "一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1254984786,
-                "language": "PowerShell",
-                "last_commit": "2026-06-12T10:22:24Z",
-                "owner": "1139030773-cmd",
-                "repo": "agent-workflow-system",
-                "stars": 4
               }
             },
             {
@@ -1118,6 +1118,21 @@
                 "last_commit": "2026-05-05T15:24:10Z",
                 "owner": "Humiris",
                 "repo": "wwa-transform",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HOL Guard Plugin",
+              "description": "AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1240712063,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T10:22:28Z",
+                "owner": "hashgraph-online",
+                "repo": "hol-guard-plugin",
                 "stars": 4
               }
             },
@@ -1175,24 +1190,9 @@
                 "archived": false,
                 "id": 1324431490,
                 "language": "Python",
-                "last_commit": "2026-08-24T13:32:54Z",
+                "last_commit": "2026-08-25T04:52:49Z",
                 "owner": "GreenLv",
                 "repo": "codex-context-guard",
-                "stars": 3
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "HOL Guard Plugin",
-              "description": "AI antivirus workflow for Codex, Claude Code, Cursor, Gemini, OpenCode, MCP servers, skills, and plugin release checks with local approvals and receipts.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1240712063,
-                "language": "JavaScript",
-                "last_commit": "2026-08-24T10:22:28Z",
-                "owner": "hashgraph-online",
-                "repo": "hol-guard-plugin",
                 "stars": 3
               }
             },
@@ -1220,7 +1220,7 @@
                 "archived": false,
                 "id": 1253173685,
                 "language": "Shell",
-                "last_commit": "2026-08-23T19:04:40Z",
+                "last_commit": "2026-08-24T21:47:34Z",
                 "owner": "gustavo-meilus",
                 "repo": "aiboarding",
                 "stars": 2
@@ -1265,7 +1265,7 @@
                 "archived": false,
                 "id": 1303781222,
                 "language": "Python",
-                "last_commit": "2026-08-18T01:54:45Z",
+                "last_commit": "2026-08-25T01:54:48Z",
                 "owner": "ChannelerH",
                 "repo": "codex-skin-packs",
                 "stars": 2
@@ -1280,7 +1280,7 @@
                 "archived": false,
                 "id": 1315437195,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T03:24:06Z",
+                "last_commit": "2026-08-25T03:24:03Z",
                 "owner": "joelfarthing",
                 "repo": "codex-usage-and-resets",
                 "stars": 2
@@ -1295,7 +1295,7 @@
                 "archived": false,
                 "id": 1263163606,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T10:15:53Z",
+                "last_commit": "2026-08-24T17:15:11Z",
                 "owner": "vinicq",
                 "repo": "falsegreen-skill",
                 "stars": 2
@@ -1325,7 +1325,7 @@
                 "archived": false,
                 "id": 1055879805,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T11:33:28Z",
+                "last_commit": "2026-08-25T02:07:31Z",
                 "owner": "s977043",
                 "repo": "river-review",
                 "stars": 2
@@ -1475,7 +1475,7 @@
                 "archived": false,
                 "id": 1235003667,
                 "language": "JavaScript",
-                "last_commit": "2026-08-18T15:35:01Z",
+                "last_commit": "2026-08-24T16:29:19Z",
                 "owner": "runtypelabs",
                 "repo": "skills",
                 "stars": 1
@@ -1523,6 +1523,21 @@
                 "last_commit": "2026-08-21T13:33:55Z",
                 "owner": "MiguelMedeiros",
                 "repo": "unforgit-codex-plugin",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Unity Agent Workflows",
+              "description": "Codex plugin and skill for Unity 2D agents that enforces \"No proof, no edit\" workflows with runtime-owner proof, Teach structure maps, and validation gates.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1236613627,
+                "language": "Shell",
+                "last_commit": "2026-05-19T15:37:34Z",
+                "owner": "AUN-PN",
+                "repo": "unity-agent-workflows",
                 "stars": 1
               }
             },
@@ -1675,21 +1690,6 @@
                 "repo": "tree-ring-memory-codex-plugin",
                 "stars": 0
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Unity Agent Workflows",
-              "description": "Codex plugin and skill for Unity 2D agents that enforces \"No proof, no edit\" workflows with runtime-owner proof, Teach structure maps, and validation gates.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1236613627,
-                "language": "Shell",
-                "last_commit": "2026-05-19T15:37:34Z",
-                "owner": "AUN-PN",
-                "repo": "unity-agent-workflows",
-                "stars": 0
-              }
             }
           ],
           "description": null,
@@ -1710,7 +1710,7 @@
                 "last_commit": "2026-08-20T23:05:13Z",
                 "owner": "aklofas",
                 "repo": "kicad-happy",
-                "stars": 1008
+                "stars": 1009
               }
             },
             {
@@ -1725,7 +1725,7 @@
                 "last_commit": "2026-08-17T10:50:14Z",
                 "owner": "indranilbanerjee",
                 "repo": "digital-marketing-pro",
-                "stars": 767
+                "stars": 768
               }
             },
             {
@@ -1740,7 +1740,7 @@
                 "last_commit": "2026-08-10T12:50:35Z",
                 "owner": "GarethManning",
                 "repo": "education-agent-skills",
-                "stars": 667
+                "stars": 681
               }
             },
             {
@@ -1755,7 +1755,7 @@
                 "last_commit": "2026-08-22T20:46:14Z",
                 "owner": "sergebulaev",
                 "repo": "linkedin-skills",
-                "stars": 587
+                "stars": 589
               }
             },
             {
@@ -1770,7 +1770,7 @@
                 "last_commit": "2026-08-23T05:51:01Z",
                 "owner": "ZeroPointRepo",
                 "repo": "youtube-skills",
-                "stars": 554
+                "stars": 560
               }
             },
             {
@@ -1800,7 +1800,7 @@
                 "last_commit": "2026-08-17T07:01:48Z",
                 "owner": "talkstream",
                 "repo": "ru-text",
-                "stars": 214
+                "stars": 215
               }
             },
             {
@@ -1815,7 +1815,7 @@
                 "last_commit": "2026-08-21T06:15:03Z",
                 "owner": "avivsinai",
                 "repo": "bitbucket-cli",
-                "stars": 193
+                "stars": 194
               }
             },
             {
@@ -1842,7 +1842,7 @@
                 "archived": false,
                 "id": 1168120544,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T02:12:22Z",
+                "last_commit": "2026-08-25T03:15:15Z",
                 "owner": "Xquik-dev",
                 "repo": "x-twitter-scraper",
                 "stars": 187
@@ -1917,7 +1917,7 @@
                 "archived": false,
                 "id": 1122637774,
                 "language": "Go",
-                "last_commit": "2026-08-23T19:17:57Z",
+                "last_commit": "2026-08-25T04:59:23Z",
                 "owner": "avivsinai",
                 "repo": "agent-message-queue",
                 "stars": 82
@@ -1955,21 +1955,6 @@
             },
             {
               "node_type": "item",
-              "title": "ScrapeGraph AI",
-              "description": "AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1148877582,
-                "language": "TypeScript",
-                "last_commit": "2026-08-17T20:16:06Z",
-                "owner": "ScrapeGraphAI",
-                "repo": "just-scrape",
-                "stars": 49
-              }
-            },
-            {
-              "node_type": "item",
               "title": "X (Twitter) Skills",
               "description": "Codex-ready X (Twitter) marketing bundle with a native .codex-plugin manifest: tweet and thread writing with corpus-validated hook formulas (validated against ~450 top tweets), AI-tell humanizer, hook extraction, reply drafting, content planning, and audience insights; also works in Claude Code.",
               "children": [],
@@ -1980,6 +1965,21 @@
                 "last_commit": "2026-08-21T18:28:41Z",
                 "owner": "sergebulaev",
                 "repo": "x-skills",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ScrapeGraph AI",
+              "description": "AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1148877582,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T20:14:34Z",
+                "owner": "ScrapeGraphAI",
+                "repo": "just-scrape",
                 "stars": 49
               }
             },
@@ -2045,6 +2045,21 @@
             },
             {
               "node_type": "item",
+              "title": "Hermes Tweet",
+              "description": "Hermes Agent X/Twitter plugin for read-first social research, monitoring, and approval-gated actions through Xquik.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1230366935,
+                "language": "Python",
+                "last_commit": "2026-08-24T18:52:44Z",
+                "owner": "Xquik-dev",
+                "repo": "hermes-tweet",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
               "title": "MorningAI",
               "description": "AI news tracking skill that monitors 80+ entities across 6 sources (Reddit, HN, GitHub, Hugging Face, arXiv, X) and generates scored daily reports with infographics and message digests.",
               "children": [],
@@ -2056,21 +2071,6 @@
                 "owner": "octo-patch",
                 "repo": "MorningAI",
                 "stars": 29
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Hermes Tweet",
-              "description": "Hermes Agent X/Twitter plugin for read-first social research, monitoring, and approval-gated actions through Xquik.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1230366935,
-                "language": "Python",
-                "last_commit": "2026-08-20T23:58:56Z",
-                "owner": "Xquik-dev",
-                "repo": "hermes-tweet",
-                "stars": 28
               }
             },
             {
@@ -2292,7 +2292,7 @@
                 "archived": false,
                 "id": 1270714989,
                 "language": "Rust",
-                "last_commit": "2026-08-24T11:32:16Z",
+                "last_commit": "2026-08-24T16:45:16Z",
                 "owner": "lacs-project",
                 "repo": "sysknife",
                 "stars": 8
@@ -2382,7 +2382,7 @@
                 "archived": false,
                 "id": 1222678439,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T14:16:28Z",
+                "last_commit": "2026-08-25T05:32:27Z",
                 "owner": "happy520ai",
                 "repo": "unified-ai-system",
                 "stars": 6
@@ -2622,7 +2622,7 @@
                 "archived": false,
                 "id": 1193287934,
                 "language": "JavaScript",
-                "last_commit": "2026-08-23T01:53:47Z",
+                "last_commit": "2026-08-25T03:36:22Z",
                 "owner": "useorgx",
                 "repo": "orgx-codex-plugin",
                 "stars": 2
@@ -2757,7 +2757,7 @@
                 "archived": false,
                 "id": 1280034005,
                 "language": null,
-                "last_commit": "2026-08-17T21:25:15Z",
+                "last_commit": "2026-08-24T21:25:23Z",
                 "owner": "ophis-fi",
                 "repo": "skills",
                 "stars": 1
@@ -2998,7 +2998,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:21:45.794Z",
+    "last_updated": "2026-08-25T05:43:56.369Z",
     "original_repository": "hashgraph-online/awesome-codex-plugins",
     "original_repository_id": 1194181229,
     "original_repository_sha": "e84726fa7811b657179e95b5563db0232c8be72c",
