@@ -53,7 +53,7 @@
 
 New plugin workflow:
 
-1. **Validate with [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 789 | 🐛 159 | 🌐 Python | 📅 2026-10-06**. The catalog-owned centralized scan must report a numeric score ≥ 80 before merge.
+1. **Validate with [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 790 | 🐛 150 | 🌐 Python | 📅 2026-10-06**. The catalog-owned centralized scan must report a numeric score ≥ 80 before merge.
 2. **Optionally gate your source repo with the [HOL scanner GitHub Action](https://github.com/hashgraph-online/ai-plugin-scanner-action) ⭐ 6 | 🐛 1 | 📅 2026-10-05**. Catalog admission uses the centralized scan; source-repo scanner CI is recommended but not required.
 3. Create with `$plugin-creator`
 4. Ship or submit with confidence
@@ -147,9 +147,9 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 
 <!-- pinned -->
 
-* [Claude Code Skills](https://github.com/alirezarezvani/claude-skills) ⭐ 27,759 | 🐛 28 | 🌐 Python | 📅 2026-08-30 - 223 production-ready skills, 23 agents, and 298 Python tools across 9 domains — engineering, marketing, product, compliance, and more.
-* [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 5,486 | 🐛 2 | 🌐 Python | 📅 2026-10-05 - 13 skills for image, video, and audio generation using 100+ models - FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, and HunyuanVideo via muapi.ai.
-* [Claude Octopus](https://github.com/nyldn/claude-octopus) ⭐ 4,169 | 🐛 6 | 🌐 Shell | 📅 2026-10-06 - Multi-LLM orchestration dispatching to 8 providers (Codex, Gemini, Copilot, Qwen, Perplexity, OpenRouter, Ollama, OpenCode) with Double Diamond workflows, adversarial review, and safety gates.
+* [Claude Code Skills](https://github.com/alirezarezvani/claude-skills) ⭐ 27,762 | 🐛 29 | 🌐 Python | 📅 2026-08-30 - 223 production-ready skills, 23 agents, and 298 Python tools across 9 domains — engineering, marketing, product, compliance, and more.
+* [Generative Media Skills](https://github.com/SamurAIGPT/Generative-Media-Skills) ⭐ 5,488 | 🐛 2 | 🌐 Python | 📅 2026-10-05 - 13 skills for image, video, and audio generation using 100+ models - FLUX, Midjourney v7, Veo3, Kling 3.0, Suno, and HunyuanVideo via muapi.ai.
+* [Claude Octopus](https://github.com/nyldn/claude-octopus) ⭐ 4,170 | 🐛 6 | 🌐 Shell | 📅 2026-10-06 - Multi-LLM orchestration dispatching to 8 providers (Codex, Gemini, Copilot, Qwen, Perplexity, OpenRouter, Ollama, OpenCode) with Double Diamond workflows, adversarial review, and safety gates.
 * [Stop That Shit](https://github.com/lennney/stop-that-shit) ⭐ 2,492 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-05 - Local-first scope guard for Codex with explicit task modes, before-action checks, and bounded dependency, hash, and subagent decisions.
 * [Brooks Lint](https://github.com/hyhmrright/brooks-lint) ⭐ 1,506 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - AI code reviews grounded in six classic engineering books — decay risk diagnostics with book citations, severity labels, and four analysis modes (PR review, architecture audit, tech debt, test quality).
 * [Antigravity Workspace Template](https://github.com/study8677/antigravity-workspace-template) ⭐ 1,325 | 🐛 5 | 🌐 Python | 📅 2026-09-09 - Multi-agent codebase knowledge graph generator with context-aware planning and automatic scope management — turns codebases into coherent agent workspaces.
@@ -157,7 +157,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 * [spec-superflow](https://github.com/MageByte-Zero/spec-superflow) ⭐ 838 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-01 - Lean spec workflow with direct or planned execution, optional specifications, one final review by default, recoverable state, and a bundled same-version CLI runtime.
 * [Boss](https://github.com/echoVic/boss-skill) ⭐ 563 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-04 - BMAD pipeline plugin that orchestrates a full requirements-to-deploy workflow across nine specialist agents with an auditable runtime DAG and quality gates, for Claude Code, Codex, OpenClaw, and Antigravity.
 * [token-optimizer](https://github.com/ooples/token-optimizer-mcp) ⭐ 538 | 🐛 11 | 🌐 JavaScript | 📅 2026-10-06 - Cut token usage 60-90% with caching, compression, and smart file tools — diff-only re-reads, paths-only search, out-of-context stashing, and a per-tool savings report for Codex and Claude Code.
-* [Codex Multi Auth](https://github.com/ndycode/codex-multi-auth) ⭐ 531 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-03 - Multi-account OAuth manager for the official Codex CLI with switching, health checks, and recovery tools.
+* [Codex Multi Auth](https://github.com/ndycode/codex-multi-auth) ⭐ 532 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-06 - Multi-account OAuth manager for the official Codex CLI with switching, health checks, and recovery tools.
 * [AgentOps](https://github.com/boshu2/agentops) ⭐ 446 | 🐛 1 | 🌐 Go | 📅 2026-10-06 - DevOps layer for coding agents with flow, feedback, and memory that compounds between sessions.
 * [Dryforge](https://github.com/prekuter/dryforge) ⭐ 402 | 🐛 1 | 🌐 Python | 📅 2026-10-02 - Bounded-autonomy plugin that asks only the decisions that belong to the user, builds nothing before the intent is approved, verifies with checks that actually ran, and keeps project decisions as plain Markdown across Codex, Claude Code, Grok Build, Copilot CLI, and Antigravity CLI.
 * [Reviewable HTML Workbench](https://github.com/u-ichi/reviewable-html-workbench) ⭐ 298 | 🐛 4 | 🌐 Python | 📅 2026-09-10 - Generate reviewable HTML documents, serve previews, collect inline review comments, and feed review outcomes back into agent workflows.
@@ -165,7 +165,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 * [Claude Code for Codex](https://github.com/sendbird/cc-plugin-codex) ⭐ 220 | 🐛 15 | 🌐 JavaScript | 📅 2026-10-05 - Reverse of OpenAI's official Claude-hosted plugin: use Claude Code from Codex for reviews, rescue tasks, tracked background jobs, and hook-powered review gates.
 * [Oh My Cassette](https://github.com/Cassette-Editor/oh-my-cassette) ⭐ 157 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - Turn raw local clips into a finished cut by chatting: beat-synced edits, auto-matched music, subtitles, and transitions through a local stdio MCP server, with a timeline delta and contact-sheet preview every turn before anything renders.
 * [Supercov](https://github.com/supercorp-ai/supercov) ⭐ 146 | 🐛 0 | 🌐 Rust | 📅 2026-10-04 - Coverage, security and code quality for coding agents.
-* [Codex Attachment Manager](https://github.com/chipfighter/codex-attachment-manager) ⭐ 140 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders, so long image-heavy tasks keep going without starting over.
+* [Codex Attachment Manager](https://github.com/chipfighter/codex-attachment-manager) ⭐ 141 | 🐛 0 | 🌐 TypeScript | 📅 2026-09-29 - Choose which past images in a Codex desktop task go to the model with your next message; unchecked ones become short placeholders, so long image-heavy tasks keep going without starting over.
 * [Krypton](https://github.com/jturntdev/krypton) ⭐ 132 | 🐛 2 | 🌐 Shell | 📅 2026-07-24 - Goal-based planning and proof gate for Codex and Claude Code that turns requests into ownership, cutover, review-gate, and acceptance-evidence plans.
 * [Superloopy](https://github.com/beefiker/superloopy) ⭐ 111 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-30 - Evidence-gated Codex loop harness with specialist skills, including near-pixel authorized website cloning backed by screenshots, assets, build output, and visual QA.
 * [Vibe Prospecting](https://github.com/explorium-ai/vibeprospecting-plugin) ⭐ 103 | 🐛 4 | 🌐 Shell | 📅 2026-10-06 - Live B2B company and contact intelligence for building lead lists, researching prospects, enriching contacts, and personalizing outreach.
@@ -233,7 +233,7 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 * [Zagrosi Forge](https://github.com/zagrosi-code/zagrosi-forge) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Decompose broad project briefs into researched plans and implement sectioned work with TDD, quality gates, and traceability.
 * [ArmorCodex](https://github.com/armoriq/armorCodex) ⭐ 6 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-05 - Intent-based security for Codex with MCP plan registration, policy gating, CSRG cryptographic proofs, and audit logging on `bash` and `apply_patch`.
 * [Dev Skills](https://github.com/Jason-chen-coder/dev-skills) ⭐ 6 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-06 - Team workflow skills for specs, plans, TDD, debugging, verification, review, branch finishing, and design context.
-* [DevRecap](https://github.com/jquinteiroo/devrecap) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-09-29 - Reconstruct evidence-backed developer work from authorized Codex and Claude history plus read-only Git, then turn it into daily standups, weekly reviews, sprint recaps, and memory reports.
+* [DevRecap](https://github.com/jquinteiroo/devrecap) ⭐ 6 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-06 - Reconstruct evidence-backed developer work from authorized Codex and Claude history plus read-only Git, then turn it into daily standups, weekly reviews, sprint recaps, and memory reports.
 * [LLM Transpile](https://github.com/epicsagas/llm-transpile) ⭐ 6 | 🐛 6 | 🌐 HTML | 📅 2026-09-20 - Auto-compress .md, .html, and .txt files via PostToolUse hook, cutting context usage by up to 40% with zero workflow change.
 * [Pixeltable](https://github.com/pixeltable/pixeltable-skill) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-04 - Declarative multimodal AI data engine for tables, computed columns, embedding search, agents, and FastAPI services.
 * [Agent Workflow System](https://github.com/1139030773-cmd/agent-workflow-system) ⭐ 5 | 🐛 1 | 🌐 PowerShell | 📅 2026-06-12 - 一套中文AI工作流系统：7个协作技能 + 行为规范宪法 + 会话恢复机制，模糊目标→可执行任务，全生命周期引导。Codex & Claude Code 双平台，新手友好。
@@ -315,27 +315,27 @@ Third-party plugins built by the community. [PRs welcome](#contributing)!
 
 ### Tools & Integrations
 
-* [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 4,195 | 🐛 5 | 🌐 Python | 📅 2026-10-03 - Codex-ready LinkedIn marketing bundle with a native .codex-plugin manifest and 10 skills: post writing with 16 tested hook formulas, AI-tell humanizer, pre-publish audit, comment and reply drafting, hook extraction, content planning, profile optimization, engager analytics, and thread monitoring; also works in Claude Code.
+* [LinkedIn Skills](https://github.com/sergebulaev/linkedin-skills) ⭐ 4,199 | 🐛 8 | 🌐 Python | 📅 2026-10-06 - Codex-ready LinkedIn marketing bundle with a native .codex-plugin manifest and 10 skills: post writing with 16 tested hook formulas, AI-tell humanizer, pre-publish audit, comment and reply drafting, hook extraction, content planning, profile optimization, engager analytics, and thread monitoring; also works in Claude Code.
 * [KiCad Happy](https://github.com/aklofas/kicad-happy) ⭐ 1,339 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - KiCad EDA skills for schematic analysis, PCB layout review, component sourcing, BOM management, and manufacturing preparation.
-* [deja](https://github.com/vshulcz/deja-vu) ⭐ 1,133 | 🐛 33 | 🌐 Go | 📅 2026-10-06 - Search the coding sessions already on your disk — Codex, Claude Code, Cursor, opencode and nineteen more — including work from before it was installed, indexed locally with no model in the loop.
+* [deja](https://github.com/vshulcz/deja-vu) ⭐ 1,135 | 🐛 33 | 🌐 Go | 📅 2026-10-06 - Search the coding sessions already on your disk — Codex, Claude Code, Cursor, opencode and nineteen more — including work from before it was installed, indexed locally with no model in the loop.
 * [YouTube Skills by TranscriptAPI](https://github.com/ZeroPointRepo/youtube-skills) ⭐ 1,022 | 🐛 4 | 📅 2026-09-29 - Twelve drop-in agent skills for YouTube transcripts, timestamped captions and subtitles, video and channel search, playlists and channel browsing through the TranscriptAPI service.
 * [Digital Marketing Pro](https://github.com/indranilbanerjee/digital-marketing-pro) ⭐ 852 | 🐛 2 | 🌐 Python | 📅 2026-10-04 - Open-source AI marketing plugin for agencies — 154 skills, 25 specialist agents, 12-Part Strategy Flow, AEO/GEO, GSC AI Performance Report, Google Ads API v24, EU AI Act Article 50 / C2PA compliance.
 * [Education Agent Skills](https://github.com/GarethManning/education-agent-skills) ⭐ 828 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-28 - 131 evidence-based education skills for curriculum design, lesson planning, and assessment, with transparent evidence ratings and MCP server.
-* [Story Skills](https://github.com/danjdewhurst/story-skills) ⭐ 271 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-06 - Fiction-writing skills for planning, drafting, and revising stories as markdown, with a dependency-free CLI that checks continuity: deaths, promise payoffs, open questions, and durable story state.
-* [ru-text](https://github.com/talkstream/ru-text) ⭐ 247 | 🐛 3 | 🌐 Shell | 📅 2026-10-03 - Russian text quality — \~1,044 rules for typography, info-style, editorial, UX writing, and business correspondence.
+* [Story Skills](https://github.com/danjdewhurst/story-skills) ⭐ 271 | 🐛 9 | 🌐 JavaScript | 📅 2026-10-06 - Fiction-writing skills for planning, drafting, and revising stories as markdown, with a dependency-free CLI that checks continuity: deaths, promise payoffs, open questions, and durable story state.
+* [ru-text](https://github.com/talkstream/ru-text) ⭐ 248 | 🐛 3 | 🌐 Shell | 📅 2026-10-03 - Russian text quality — \~1,044 rules for typography, info-style, editorial, UX writing, and business correspondence.
 * [Bitbucket CLI](https://github.com/avivsinai/bitbucket-cli) ⭐ 230 | 🐛 9 | 🌐 Go | 📅 2026-10-04 - Manage Bitbucket repos, PRs, branches, issues, webhooks, and pipelines for Data Center and Cloud.
 * [Taisly Agent Kit](https://github.com/taisly/agent) ⭐ 217 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-03 - Publish short-form videos to TikTok, Instagram Reels, YouTube Shorts, X, and Facebook from Codex with the Taisly MCP server and bundled social media posting skill.
 * [X Twitter Scraper](https://github.com/Xquik-dev/x-twitter-scraper) ⭐ 209 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-05 - X/Twitter data, monitored workflows, HMAC webhooks, and MCP access through the Xquik REST API with confirmation-gated write guidance.
 * [Codex Usage Tracker](https://github.com/douglasmonsky/codex-usage-tracker) ⭐ 196 | 🐛 13 | 🌐 Python | 📅 2026-08-20 - Track aggregate Codex token usage from local session logs with MCP tools for summaries, session detail, CSV export, and dashboard generation.
-* [OC ChatGPT Multi Auth](https://github.com/ndycode/oc-chatgpt-multi-auth) ⭐ 195 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-02 - Codex setup skill and OpenCode plugin for ChatGPT Plus/Pro OAuth, GPT-5/Codex presets, and multi-account failover.
+* [OC ChatGPT Multi Auth](https://github.com/ndycode/oc-chatgpt-multi-auth) ⭐ 195 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-06 - Codex setup skill and OpenCode plugin for ChatGPT Plus/Pro OAuth, GPT-5/Codex presets, and multi-account failover.
 * [unslop](https://github.com/MohamedAbdallah-14/unslop) ⭐ 153 | 🐛 4 | 🌐 Python | 📅 2026-10-05 - Strip AI writing patterns from text output — removes filler phrases, hedging language, and generic constructs to produce cleaner written content. Install: `npm install -g unslop`.
-* [Jev Social](https://github.com/socai-io/jev-social) ⭐ 148 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-01 - Read-only Instagram, TikTok, and LinkedIn research in the user's Chrome, with Jev selecting bounded operations and the socai CLI streaming posts, comments, video evidence, and source-linked reports.
+* [Jev Social](https://github.com/socai-io/jev-social) ⭐ 149 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-01 - Read-only Instagram, TikTok, and LinkedIn research in the user's Chrome, with Jev selecting bounded operations and the socai CLI streaming posts, comments, video evidence, and source-linked reports.
 * [X (Twitter) Skills](https://github.com/sergebulaev/x-skills) ⭐ 117 | 🐛 1 | 🌐 Python | 📅 2026-10-03 - Codex-ready X (Twitter) marketing bundle with a native .codex-plugin manifest: tweet and thread writing with corpus-validated hook formulas (validated against \~450 top tweets), AI-tell humanizer, hook extraction, reply drafting, content planning, and audience insights; also works in Claude Code.
 * [Langfuse Observability](https://github.com/avivsinai/langfuse-mcp) ⭐ 113 | 🐛 1 | 🌐 Python | 📅 2026-09-25 - Query traces, debug exceptions, analyze sessions, and manage prompts via MCP tools.
 * [Call-E](https://github.com/CALLE-AI/call-e-integrations) ⭐ 96 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-23 - Plan, run, and inspect Call-E phone call workflows from Codex through the calle CLI.
 * [Jenkins CLI](https://github.com/avivsinai/jenkins-cli) ⭐ 92 | 🐛 4 | 🌐 Go | 📅 2026-10-05 - GitHub CLI-style interface for Jenkins controllers with jobs, pipelines, runs, logs, artifacts, credentials, and nodes.
 * [Fantasy Football Manager](https://github.com/krmisystems/fantasy-football-manager) ⭐ 91 | 🐛 2 | 🌐 Python | 📅 2026-10-01 - Manage ESPN fantasy drafts and season transactions with configurable approval limits and a multi-team portfolio dashboard.
-* [Agent Message Queue](https://github.com/avivsinai/agent-message-queue) ⭐ 87 | 🐛 5 | 🌐 Go | 📅 2026-10-06 - File-based inter-agent messaging with co-op mode, cross-project federation, and orchestrator integrations.
+* [Agent Message Queue](https://github.com/avivsinai/agent-message-queue) ⭐ 87 | 🐛 4 | 🌐 Go | 📅 2026-10-06 - File-based inter-agent messaging with co-op mode, cross-project federation, and orchestrator integrations.
 * [ScrapeGraph AI](https://github.com/ScrapeGraphAI/just-scrape) ⭐ 69 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-21 - AI-powered web scraping CLI to search, scrape, extract structured JSON, crawl, and monitor web pages via the ScrapeGraph AI API.
 * [PANews Agent Toolkit](https://github.com/panewslab/skills) ⭐ 45 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-22 - Crypto and blockchain news discovery, authenticated creator publishing workflows, and page-to-Markdown reading.
 * [Resume Tailor](https://github.com/olegvg/resume-tailor-plugin) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2026-10-03 - Tailor resumes and application text to job descriptions, or create candidate profiles from supplied career evidence.
@@ -478,7 +478,7 @@ For this curated list, the machine-readable source of truth is the generated rep
 
 ## Validate Before You Ship
 
-After scaffolding with `$plugin-creator`, use [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 789 | 🐛 159 | 🌐 Python | 📅 2026-10-06 as your quality gate before publishing, review, or distribution.
+After scaffolding with `$plugin-creator`, use [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 790 | 🐛 150 | 🌐 Python | 📅 2026-10-06 as your quality gate before publishing, review, or distribution.
 
 For skill/plugin authoring workflows, [Codex SkillForge](https://github.com/f0d010c/skillforge) ⭐ 0 | 🐛 5 | 🌐 TypeScript | 📅 2026-09-27 provides an ESLint-style CLI and GitHub Action for scaffolding, linting, smoke-testing, and packaging Codex skills/plugins before publishing.
 
@@ -545,7 +545,7 @@ That's it. The verification confirms you are the repository owner or an organiza
 
 ## Plugin Trust Scores
 
-Every plugin in this list is automatically ingested by the [HOL Plugin Registry](https://hol.org/registry/plugins), which runs each through the [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 789 | 🐛 159 | 🌐 Python | 📅 2026-10-06 to produce a trust score and security analysis.
+Every plugin in this list is automatically ingested by the [HOL Plugin Registry](https://hol.org/registry/plugins), which runs each through the [`plugin-scanner`](https://github.com/hashgraph-online/hol-guard) ⭐ 790 | 🐛 150 | 🌐 Python | 📅 2026-10-06 to produce a trust score and security analysis.
 
 A snapshot of scored installable plugins (plus modeled Guard runtime fixtures and public advisories) is published on Hugging Face as [HOL Plugin Security](https://huggingface.co/datasets/HashgraphOnline/hol-plugin-security). Scan ≠ safety guarantee. Catalog plugin count is not the Registry Broker agent catalog. HOL publishes it; not independent validation. Cite this curated list with [`CITATION.cff`](./CITATION.cff).
 
